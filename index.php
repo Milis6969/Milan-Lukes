@@ -2,7 +2,7 @@
 
 <html>
     <head lang="cs">
-        <title lang="cs">Test page1</title>  
+        <title lang="cs">Test page12</title>  
         <meta name="author" content="Maxim Rosir" />
         <meta name="publisher" content="Maxim Rosior" />
         <meta name="copyright" content="Maxim Rosior" />
